@@ -29,7 +29,7 @@ Hi there 👋
 
 I am a ML engineer and Data Scientist 👨🏼‍💻
 
-- ❇️ I am working as a ML engineer in Dzen.
+- ❇️ I am working as a ML engineer in Zen.
 
 - ⛓️ Developing engineering in DSLTech.
 
